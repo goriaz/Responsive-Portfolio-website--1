@@ -1,0 +1,267 @@
+
+
+
+
+/* navigation section start */
+
+
+.navigation {
+    position: fixed;
+    top: 0px;
+    left: 0;
+    right: 0px;
+    z-index: 10000000000000;
+}
+.navbar-nav-left {
+    position: relative;
+    left: 23rem;
+}
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1.2rem 1rem;
+}
+.nav-link{
+    font-size: 20px;
+    color: #000;
+}
+.nav-link:hover{
+    font-size: 20px;
+    color: #ff5;
+    border: 1px solid black;
+    background-color:yellow;
+}
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    font-size: 32px;
+    font-weight: 900;
+}
+.navbar-nav-left {
+    position: relative;
+    left: 18rem;
+}
+.navbar-nav-right{
+
+
+    
+        padding: 0;
+        position: relative;
+        right: -65px;
+    
+}
+
+
+
+
+/* navigation end */
+
+
+
+
+
+
+
+
+
+
+/* homepage start */
+
+
+
+.homepage {
+    background-color: #fff;
+    position: absolute;
+    top: 133px;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    margin: 0;
+    padding: 0;
+}
+
+.home-left{ 
+   
+    margin: 8rem 5rem;
+}
+.home-left h1 {
+    margin: 48px 0px;
+    font-size: 50px;
+}
+.home-left h1:hover {
+    margin: 48px 0px;
+     font-size: 60px;
+}
+
+.home-left h4 {
+    margin: 41px 0;
+
+}
+.home-left h4:hover {
+    margin: 41px 0;
+font-size: 30px;
+
+    padding: 0;
+}
+
+
+.home-left button {
+    padding: 12px;
+    border-radius: 13px;
+    background: #00F;
+    color: #fff;
+}
+.home-left button:hover {
+    padding: 12px;
+    border-radius: 13px;
+    background: #000;
+    color: #fff;
+}
+
+
+.home-right{
+   
+        margin:0 50px;
+    
+}
+
+
+/* services section */
+
+.services {
+    position: absolute;
+    top: 45rem;
+   
+}
+
+.services h1{
+   text-align: center;
+  
+    margin-left: 18rem;
+    margin-top: 5rem;
+    font-size: 4rem;
+    margin-bottom: -96px;
+    color: #020;
+}
+
+.services .box{
+    
+    margin-top: 1rem;
+    box-shadow: 0 1px 2px 0px rgba(0, 0, 0, 0.1);
+    
+}
+
+
+
+
+.services .box .right {
+    position: relative;
+}
+.services .box {
+    box-shadow: 0 1px 2px 0px rgba(0, 0, 0, .5);
+   
+}
+
+    .services .box .right h3 {
+        color: #050;
+    }
+    .services .box .right p {
+        font-size:12px;
+    }
+    .services .box {
+        box-shadow: 0 1px 2px 0px rgba(0, 0, 0, .5);
+        padding: 20px 47px;
+    }
+
+    .services .box {
+        box-shadow: 0 1px 2px 0px rgba(0, 0, 0, .5);
+        padding: 20px 47px;
+        height: 200px;
+        width: 576px;
+        margin: 61px 107px;
+        margin-top: 152px;
+    }
+    .service-up{}
+
+
+
+    .service-bottom {
+        margin-top: -171px;
+    }
+        
+
+
+
+
+    .about-section{
+        position: relative;
+        top: 100rem;
+    }
+    .about{
+
+    }
+    .about h1 {
+        margin: 0;
+    }
+
+    .about .line{
+        height: 4px;
+    width: 108px;
+    background-color: black;
+    margin: 30px 0;
+}
+    
+.about .row .left{
+
+}
+
+.about .row  .left p{
+    font-size: 22px;
+    color: #021;   
+}
+
+
+.about .row  .middle{}
+
+
+.about .row  .middle img{}
+
+
+.about .row .right{}
+
+.about .row  .right p{
+     font-size: 22px;
+    color: #021;}
+
+    .about .row  .right button{
+        border-radius: 14px;
+    padding: 15px 27px;
+    background-color: #EF3;
+
+    }
+
+    .about .row  .right button:hover{
+        border-radius: 14px;
+    padding: 15px 27px;
+    background-color: #fff;
+
+    }
+
+    .box1{
+        
+    }
+    .box2{
+        
+    }
+    .box3{
+        
+    }
+    .box4{
+        
+    }
